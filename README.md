@@ -26,17 +26,6 @@ To get started with the PythonQuiz, follow these steps:
 
 3. Participate in the quiz: Try to answer the questions before checking the provided answers to test your knowledge!
 
-Contribution
-
-Contributions are welcome! If you have more questions or improvements to suggest, please feel free to fork the repository and submit a pull request.
-Steps to Contribute
-
-    Fork the repository.
-    Create your feature branch (git checkout -b feature/YourFeature).
-    Commit your changes (git commit -m 'Add some feature').
-    Push to the branch (git push origin feature/YourFeature).
-    Open a pull request.
-
 Contact
 
 If you have any questions, feel free to reach out to me on GitHub or via email.
